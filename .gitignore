@@ -2,3 +2,4 @@ node_modules
 test-extract
 floppy-with-data.png
 *.swp
+.idea
