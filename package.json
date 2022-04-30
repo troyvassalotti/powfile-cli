@@ -6,6 +6,9 @@
   "bin": {
     "powfile": "cli.js"
   },
+  "scripts": {
+    "create:fr": "node cli create -i demos/front-royal/logo.png -o demos/powfiles/front-royal.png demos/front-royal"
+  },
   "author": "Jesse Kriss <jesse@jklabs.net>",
   "license": "ISC",
   "dependencies": {
